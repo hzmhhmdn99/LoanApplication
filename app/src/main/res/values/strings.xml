@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="button">Button</string>
+    <string name="welcome">WELCOME</string>
+    <string name="next_page">NEXT PAGE</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="welcome_to_my_application">WELCOME TO MY APPLICATION</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
